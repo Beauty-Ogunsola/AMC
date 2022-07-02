@@ -1,0 +1,115 @@
+/* STYLE SECTIONING TAGS */
+* { /* Reset the space of the webpage */
+  
+}
+
+/* STYLE TEXT */
+
+h1 {
+  background: #ffffff;
+	margin: 5px;
+  padding: 5px;
+	border: 1.5px solid black;
+	font-size: larger;
+  opacity: 0.6;
+	color: red;
+}
+
+h2 {
+	margin: 10px;
+	font-size: 21px;
+	font-weight: 600;
+	font-family: inherit;
+	text-align: center;
+	
+}
+
+
+/* STYLE NAV BAR */
+body {
+ background-color: white; 
+	font-family: Arial;
+	margin: 0px;
+	padding: 0px;
+	font-size: larger;
+}
+
+header {
+	Background-color: black;
+	background-image: url("hobo.jpg");
+	background-size: 100%;
+	background-position: center;
+	 filter: drop-shadow(0 0 3.5px white);
+	height: 400px;
+	padding: 20px;
+	text-align: center;
+}
+
+header a {
+	color: white;
+	text-decoration: none;
+	text-transformation: uppercase;
+	margin-top: 40px;
+}
+
+
+section {
+	Background: #b09696;
+	color: black; 
+	padding: 20px;
+	display: flex;
+  flex-direction: row;
+}
+
+
+div{
+	background: #fff0f0;
+	border: 2px solid black;
+	flex-direction: row;
+	margin: auto;
+	height: 310px;
+	width: 340px;
+	border-radius: 10%;
+	border-shawdow: black 0 0 10px;
+	text-align: center;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+li{
+	display: inline-block;
+	margin-right: 20px;
+}
+
+footer{
+	Background: black;
+	color: grey; 
+	font size: 9px;
+	padding: 20px 20px
+	text-align: center;
+}
+
+/* STYLE IMAGES */
+
+/* STYLE BUTTONS */
+
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+
+
+
+/* ADD MORE */

@@ -1,0 +1,76 @@
+/* STYLE TEXT */
+
+h1 {
+  background: #ffffff;
+	opacity: 0.6;
+	text-align: center;
+	margin: 5px;
+  padding: 5px;
+	border: 1.5px solid black;
+	font-size: larger;
+	color: red;
+}
+
+/* STYLE NAV BAR */
+body {
+ background-color: white; 
+	font-family: Arial;
+	margin: 0px;
+	padding: 0px;
+	font-size: larger;
+}
+
+header {
+	Background-color: black;
+	background-image: url("hoboo.jpg");
+	background-size: 100%;
+	background-position: center;
+	 filter: drop-shadow(0 0 5px black);
+	height: 350px;
+	padding: 20px;
+	text-align: center;
+}
+
+header a {
+	color: white;
+	text-decoration: none;
+	text-transformation: uppercase;
+	margin-top: 40px;
+}
+
+section {
+	Background: #fff0f0;
+	color: #8f0000; 
+	padding: 20px;
+	text-align: center;
+	
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+li{
+	display: inline-block;
+	margin-right: 20px;
+}
+
+/* STYLE FOOTER */
+
+footer{
+	Background: black;
+	color: grey; 
+	font size: 9px;
+	padding: 20px 20px
+	text-align: center;
+}
+
+/* STYLE BUTTONS */
+
+
+body {
+  text-align: center;
+  font-family: Trebuchet MS;
+}
